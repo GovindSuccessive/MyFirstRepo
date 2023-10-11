@@ -11,6 +11,6 @@ Somethings addone
 
 5th change
 
-6th change
+6th change this is by using fetch + checkout + merge commands
 
-
+7th change this is by using pull command
